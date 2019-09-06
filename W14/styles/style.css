@@ -11,7 +11,7 @@
 }
 
 .header {
-    background-image: url(./images/back.png); 
+    background-image: url(../images/back.png); 
     background-color: #c1b7a2;
     background-repeat: no-repeat;
     background-size: cover;
@@ -30,7 +30,7 @@
     display: block;
     width: 135px;
     height: 63px;   
-    background: url(./images/logo.png) no-repeat;
+    background: url(../images/logo.png) no-repeat;
 }
 
 .nav__links {
@@ -195,28 +195,28 @@
 .card__pic--making {
     width: 163px;
     height: 144px;
-    background-image: url(./images/shape_1.png);
+    background-image: url(../images/shape_1.png);
     background-repeat: no-repeat;
 }
 
 .card__pic--tools {
     width: 137px;
     height: 137px;
-    background-image: url(./images/shape_2.png);
+    background-image: url(../images/shape_2.png);
     background-repeat: no-repeat;
 }
 
 .card__pic--ideas {
     width: 116px;
     height: 155px;
-    background-image: url(./images/shape_3.png);
+    background-image: url(../images/shape_3.png);
     background-repeat: no-repeat;
 }
 
 .card__pic--navigate {
     width: 150px;
     height: 150px;
-    background-image: url(./images/shape_4.png);
+    background-image: url(../images/shape_4.png);
     background-repeat: no-repeat;
 }
 
@@ -293,7 +293,7 @@
 }
 
 .rates__card--popular::before {
-    content: url(./images/popular.png);
+    content: url(../images/popular.png);
     position: absolute;
     left: 0;
     top: 0;
@@ -375,7 +375,7 @@
 }
 
 .photo--one {
-    background-image: url(./images/testimonial--one.png);
+    background-image: url(../images/testimonial--one.png);
     background-position: right;
     position: absolute;
     top: 50px;
@@ -385,7 +385,7 @@
 }
 
 .photo--two {
-    background-image: url(./images/testimonial--two.png);
+    background-image: url(../images/testimonial--two.png);
     background-position: right;
     position: absolute;
     top: 50px;
